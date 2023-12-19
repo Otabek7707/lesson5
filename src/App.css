@@ -1,0 +1,33 @@
+.sss{
+  width: 100%;
+  border: 1px solid;
+  display:grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+}
+.tab{
+  width: 100%;
+  border:1px solid;
+  display:grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  
+}
+.tr{
+  width: 200px;
+  font-size: 190%;
+  margin-top: 2rem;
+  border: 1px solid;
+  border-radius:5px;
+  padding: 80px;
+  height: 200px;
+ background-color: aquamarine;
+}
+.inp{
+  background-color: aquamarine;
+}
+.btn{
+  background-color: aquamarine;
+  color: black;
+  
+}
